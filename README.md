@@ -1,4 +1,10 @@
-# pokeemerald-expansion
+# PokeEmerald-Wayne
+## The Bruce Wayne base, based on PokeEmerald-Expansion from pret and RHH.
+## The following games utilize PokeEmerald-Wayne:
+- Pokémon Water Blue
+- Untitled Pokémon Game, based on Water Blue
+
+## Please do not use this repo as a base to make your own games. This is a repo for a base on two hacks of mine. Please use Pret's PokeEmerald repo or RHH's PokeEmerald-Expansion repo.
 
 ## What is pokeemerald-expansion?
 
